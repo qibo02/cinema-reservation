@@ -1,2 +1,3 @@
-# cinema-reservation
+# cinema-reservation-system
 A system for cinema seat reservation
+System on going...
